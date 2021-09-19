@@ -1,6 +1,6 @@
 # bondage.js
 [Yarn](https://github.com/InfiniteAmmoInc/Yarn) parser for Javascript, in the same vein as [YarnSpinner](https://github.com/thesecretlab/YarnSpinner).
-This branch was chosen because it works especally well with GDevelop's DialogueTree Extension. Grab [dist/bondage.min.js](https://github.com/jhayley/bondage.js/blob/master/dist/bondage.min.js) and replace `%LOCALAPPDATA%\Programs\gdevelop\resources\GDJS\Runtime\Extensions\DialogueTree\bondage.js\dist\bondage.min.js`
+This branch was chosen because it works especally well with GDevelop's DialogueTree Extension. Grab [dist/bondage.min.js](https://github.com/MechanicalPen/bondage.js/blob/GDevelop/dist/bondage.min.js) and replace `%LOCALAPPDATA%\Programs\gdevelop\resources\GDJS\Runtime\Extensions\DialogueTree\bondage.js\dist\bondage.min.js`
 [alforno](https://github.com/alforno) is cool.
 
 # Usage
